@@ -1,0 +1,33 @@
+{
+  "name": "angular-starts-with-filter",
+  "main": "angular-starts-with-filter.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/DevLab2425/angular-starts-with-filter",
+  "authors": [
+    "DevLab2425"
+  ],
+  "description": "A simple filter that will return strings that start with a given character.",
+  
+  "keywords": [
+    "angular",
+    "angularjs",
+    "angular.js",
+    "filter starts with",
+    "angular filter",
+    "angularjs filter"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.21"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.22"
+  }
+}
